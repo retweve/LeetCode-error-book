@@ -9,6 +9,13 @@
 | 1 | 两数之和（Two Sum） | [problems/001-two-sum.md](problems/001-two-sum.md) |
 | 27 | 移除元素（Remove Element） | [problems/027-remove-element.md](problems/027-remove-element.md) |
 
+## 快速开始
+
+```bash
+git clone https://github.com/retweve/LeetCode-error-book
+cd LeetCode-error-book
+# 按题号查看 problems/ 下的记录
+```
 ## 约定
 
 - 文件内代码是当时提交的**原始记录**（含已发现的错误），保留用于复盘，不代表正确解法。
